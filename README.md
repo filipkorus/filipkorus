@@ -1,7 +1,7 @@
 <h1 align="center">Hi, my name is Filip</h1>
 <h3 align="center">I am a tech enthusiast, student and beginner developer from Poland</h3>
 
-## 🌐 Links:
+## 🌐 Socials:
 <p align="left">
 
 <a href="https://www.linkedin.com/in/filipkorus/" target="blank">
